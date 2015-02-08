@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullfactory.TfsBuildExtensions", "Nullfactory.TfsBuildExtensions\Nullfactory.TfsBuildExtensions.csproj", "{C3742433-D87B-4754-8CAD-7C639BC03D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Template.csproj", "{A490CC9D-3751-4CAB-B674-CC384A938020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3742433-D87B-4754-8CAD-7C639BC03D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3742433-D87B-4754-8CAD-7C639BC03D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3742433-D87B-4754-8CAD-7C639BC03D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3742433-D87B-4754-8CAD-7C639BC03D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A490CC9D-3751-4CAB-B674-CC384A938020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A490CC9D-3751-4CAB-B674-CC384A938020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A490CC9D-3751-4CAB-B674-CC384A938020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A490CC9D-3751-4CAB-B674-CC384A938020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
